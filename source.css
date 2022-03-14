@@ -2207,7 +2207,7 @@ div[role=radiogroup] .tooltipWrapper-Z59cgW:last-child {
 ::-webkit-scrollbar-track {
   margin: 0 !important;
   background: transparent !important;
-  border-radius: 0 !important;
+  border-radius: 20 !important;
 }
 ::-webkit-scrollbar-track-piece {
   border: 0 solid transparent !important;
