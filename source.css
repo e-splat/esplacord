@@ -250,8 +250,8 @@ body,
 .typeWindows-2-g3UY .winButton-3UMjdg:after {
   position: absolute;
   content: " ";
-  width: 26px;
-  height: 26px;
+  width: 21px;
+  height: 21px;
   border-radius: 50%;
   background-color: var(--window-button);
   transition: var(--default-time) var(--default-animation);
