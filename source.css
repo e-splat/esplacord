@@ -56,11 +56,11 @@
 }
 
 .theme-dark {
-  --main-color: #16171a;
-  --main-alt: #0f1012;
+  --main-color: #231b33;
+  --main-alt: #15111f;
   --server-color: transparent;
-  --status-picker-color: #2c2d31;
-  --sidebar-panel-color: #212226;
+  --status-picker-color: #15111f;
+  --sidebar-panel-color: ##242126;
   --chat-color: #202225;
   --message-color: #292d30;
   --message-color-hover: #303438;
